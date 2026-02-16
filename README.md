@@ -33,3 +33,10 @@ graph TD
 
 ## License
 Distributed under the **MIT License**. This framework is provided as a public resource to raise the "security floor" for U.S. government contractors and small-to-medium enterprises (SMEs) supporting critical infrastructure.
+
+| Technical Feature | NIST 800-53 Control | National Priority |
+| :--- | :--- | :--- |
+| **Automated SCIM Logic** | AC-2 (Account Management) | Eliminates "Orphaned Accounts" in Federal Cloud. |
+| **JIT Access Templates** | AC-6 (Least Privilege) | Directly supports EO 14028 Zero Trust goals. |
+| **Policy-as-Code (SaC)** | CA-7 (Continuous Monitoring) | Enables real-time compliance for Gov-Contractors. |
+| **Vendor-Agnostic YAML** | SA-9 (External System Services) | Protects the "Software Supply Chain" globally.|
